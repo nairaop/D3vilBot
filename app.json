@@ -1,7 +1,7 @@
 {
-  "name": "𝔇3vιℓвσт",
+  "name": "╰𝐁𝐍𝐒╯Miss☆PARI𓆪࿐",
   "description": "𝔇3𝔳𝔦𝔩𝔅𝔬𝔱 is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.this userbot made by ©Team D3vil & @D3_krish",
-  "logo": "https://telegra.ph/file/ad8abbfbcb2f93f91b10f.jpg ",
+  "logo": "https://te.legra.ph/file/571b25a7ec3260edb0b88.jpg ",
     "keywords": [
     "telegram",
     "userbot",
@@ -11,9 +11,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/TEAM-D3VIL/D3vilBot/",
-  "website": "https://github.com/D3KRISH/",
-  "success_url": "https://t.me/D3VIL_SUPPORT",
+  "repository": "https://github.com/nairaop/D3vilBot/",
+  "website": "https://github.com/nairaop/",
+  "success_url": "https://t.me/bnsfighters",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
